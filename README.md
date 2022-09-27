@@ -41,6 +41,6 @@ python fastapi/main.py --model_name binary-classifier --model_version 4
 
 ```bash
 
-
+locust --config=load_testing/configs/xgboost_onnx.conf
 
 ```
