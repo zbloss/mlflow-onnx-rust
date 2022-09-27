@@ -4,6 +4,7 @@ env/
 mydb.sqlite
 *.onnx
 *.ckpt
+notebooks/1/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
